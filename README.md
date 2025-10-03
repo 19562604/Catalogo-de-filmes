@@ -1,2 +1,2 @@
-# Catalogo-de-filmes
-Catalogo de filmes criado com HTM, CSS e JavaScript 
+# Catálogo-de-filmes-e-séries
+Catálogo de filmes e séries criado com HTML, CSS e JavaScript no curso de front-end.
